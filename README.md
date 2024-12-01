@@ -1,1 +1,1 @@
-* Nextjs training *
+*Nextjs training*
